@@ -1,6 +1,6 @@
 var namespacemath =
 [
-    [ "Point", "de/d4f/structmath_1_1_point.html", null ],
+    [ "Point", "dd/d47/namespacemath.html#a937dc0c826acf3e6c0d2785527f7e9d7", null ],
     [ "aliquot_sum", "dd/d47/namespacemath.html#ab37f3a7302a84179aae682c79d8390bf", null ],
     [ "approximate_pi", "dd/d47/namespacemath.html#abf7f2a6d91f1ca6c89698792aea3f188", null ],
     [ "are_amicable", "dd/d47/namespacemath.html#a8e6eede206201db0d1dbb618fa969bec", null ],
@@ -14,9 +14,11 @@ var namespacemath =
     [ "cylinder_surface_area", "dd/d47/namespacemath.html#ac5803413618fcfb922cb32c6db0fc864", null ],
     [ "cylinder_surface_perimeter", "dd/d47/namespacemath.html#a1d4df7a4e43a2eac1acc0ac610487c73", null ],
     [ "cylinder_volume", "dd/d47/namespacemath.html#abde24398be43538c62e4a496968e60ca", null ],
+    [ "factorial", "dd/d47/namespacemath.html#a7e78996673df791014cfe540b183456a", null ],
     [ "integral_approx", "dd/d47/namespacemath.html#aec65db4e5c7317323227f026fe50ef11", null ],
     [ "is_factorial", "dd/d47/namespacemath.html#a6c72f756a7bf1b9043c357e3fe7814ca", null ],
     [ "is_prime", "dd/d47/namespacemath.html#abd8f794b2229b42876169ff841b6e444", null ],
+    [ "iterativeFactorial", "dd/d47/namespacemath.html#a2565c745aac2f9561cc6fd9e56d9b77a", null ],
     [ "largestPower", "dd/d47/namespacemath.html#afa39ec943a4836c878e1614fd89b146f", null ],
     [ "lcmSum", "dd/d47/namespacemath.html#a04065193d190d605e1f0d0d93a87e244", null ],
     [ "magic_number", "dd/d47/namespacemath.html#a8d8e81a7cd59644b311ef9adb268f5f0", null ],
